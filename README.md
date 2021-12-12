@@ -2,7 +2,7 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=white&qColor=Purple&aColor=darkNavy">
 </p> -->
 
-## :sparkles: Hi, there :wave: I'm Ida
+## <img src="flower.svg" /> Hi, there :wave: I'm Ida
 
 I am a **junior web developer** improving my knowledge since the beginning of 2021 on front-end and back-end stack. I finished Web Development Bootcamp in December 2021, a very intense (720h) and practice-oriented course that was my springboard into IT world.
 
