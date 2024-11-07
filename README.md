@@ -14,7 +14,7 @@ I am a **full stack developer** improving my knowledge since the beginning of 20
 
 ## :zap: Top languages
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ida-dar&layout=compact&langs_count=6&hide=css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ida-dar&layout=compact&langs_count=6&hide=css,html">
 </p>
 
 ## :globe_with_meridians: Tech stack
