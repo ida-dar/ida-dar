@@ -4,7 +4,7 @@
 
 ## <img src="flower.svg" /> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> I'm Ida
 
-I’m a full-stack JavaScript developer with 4 years of experience building high-traffic sports-betting and trading platforms in React, React Native and Node.js. I blend solid engineering practice—containerised CI/CD pipelines and cloud-first architecture—with the people skills of a psychology graduate, turning complex requirements into clear, engaging features. Recently, I’ve woven generative-AI tools (OpenAI, LangChain) into my workflow to accelerate boilerplate generation, surface edge cases and tighten feedback loops, cutting release times without sacrificing quality. My style is energetic, collaborative and solution-oriented, equally at home discussing design with clients, refining code in peer reviews or pushing a feature to production.
+I’m a full-stack JavaScript developer with 4 years of experience building high-traffic platforms in React, React Native and Node.js. I blend solid engineering practice—containerised CI/CD pipelines and cloud-first architecture—with the people skills of a psychology graduate, turning complex requirements into clear, engaging features. Recently, I’ve woven generative-AI tools (OpenAI, LangChain) into my workflow to accelerate boilerplate generation, surface edge cases and tighten feedback loops, cutting release times without sacrificing quality. My style is energetic, collaborative and solution-oriented, equally at home discussing design with clients, refining code in peer reviews or pushing a feature to production.
 
 ## :zap: Top languages
 <p align='center'>
