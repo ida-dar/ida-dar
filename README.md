@@ -4,13 +4,7 @@
 
 ## <img src="flower.svg" /> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> I'm Ida
 
-I am a **full stack developer** improving my knowledge since the beginning of 2021 on front-end and back-end stack. I finished Web Development Bootcamp in December 2021, a very intense (720h) and practice-oriented course that was my springboard into IT world.
-
-  - well organized and charismatic person
-  - feel comfortable with working in a team
-  - an eager and a quick learner
-  - pay high attention to detail
-  - not afraid of new challenges
+I’m a full-stack JavaScript engineer with 4 years of experience building high-traffic sports-betting and trading platforms in React, React Native and Node.js. I blend solid engineering practice—containerised CI/CD pipelines and cloud-first architecture—with the people skills of a psychology graduate, turning complex requirements into clear, engaging features. Recently, I’ve woven generative-AI tools (OpenAI, LangChain) into my workflow to accelerate boilerplate generation, surface edge cases and tighten feedback loops, cutting release times without sacrificing quality. My style is energetic, collaborative and solution-oriented, equally at home discussing design with clients, refining code in peer reviews or pushing a feature to production.
 
 ## :zap: Top languages
 <p align='center'>
