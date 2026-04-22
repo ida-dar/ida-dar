@@ -9,7 +9,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
 
 ## :globe_with_meridians: Tech stack
 
-**Languages**
+#### Languages
 <div align="left">
   <img
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -19,7 +19,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   />
 </div>
 
-**FE**
+#### FE
 <div align="left">
   <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
@@ -44,7 +44,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   /> 
 </div>
 
-**UI Libraries**                                                                                                      
+#### UI Libraries
   <div align='left'>                                                                                                
     <img 
       src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -60,7 +60,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
     />                                                                                       
   </div> 
 
-**BE**
+#### BE
 <div align="left">
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -76,7 +76,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   />
 </div>
 
-**DevOps & Tools**
+#### DevOps & Tools
 <div align="left">
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
@@ -104,14 +104,14 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   />
 </div>
 
-**Testing**
+#### Testing
 <div align="left">
   <img
     src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
   />
 </div>
 
-**AI Tools**
+#### AI Tools
 <div align="left">
   <img
     src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
