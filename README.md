@@ -5,7 +5,7 @@
 ## <img src="flower.svg" /> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> I'm Ida
 
 JavaScript / TypeScript developer, React + React Native / Expo on FE and NestJS on BE.
-Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI tools: Claude Code (skills, hooks, MCPs), Cursor.
+Building for high-traffic platforms. CI/CD pipelines (for web, native and fullstack applications hosted on AWS, TestFlight, Google Play and Firebase), clean architecture, AI tools: Claude Code (skills, hooks, MCPs), Cursor.
 
 ## :globe_with_meridians: Tech stack
 
