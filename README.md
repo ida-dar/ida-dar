@@ -6,7 +6,7 @@
 
 JavaScript / TypeScript developer, React + React Native / Expo on FE and NestJS on BE.
 
-Building for high-traffic platforms. CI/CD pipelines (for web and fullstack applications hosted on AWS and native on TestFlight, Google Play and Firebase), clean architecture, AI tools: Claude Code (skills, hooks, MCPs), Cursor.
+Building for high-traffic platforms. CI/CD pipelines (for FE and fullstack applications hosted on AWS and native on TestFlight, Google Play and Firebase), clean architecture, AI tools: Claude Code (skills, hooks, MCPs), Cursor.
 
 ## :globe_with_meridians: Tech stack
 
