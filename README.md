@@ -4,8 +4,8 @@
 
 ## <img src="flower.svg" /> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> I'm Ida
 
-JavaScript/TypeScript developer, React + React Native / Expo on FE and Node + NestJS on BE.
-Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI tooling: Claude Code (skills, hooks, MCPs), Cursor.
+JavaScript / TypeScript developer, React + React Native / Expo on FE and NestJS on BE.
+Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI tools: Claude Code (skills, hooks, MCPs), Cursor.
 
 ## :globe_with_meridians: Tech stack
 
@@ -39,14 +39,25 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   <img
     src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
   />
+  <img 
+    src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+  /> 
 </div>
 
 **UI Libraries**                                                                                                      
   <div align='left'>                                                                                                
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">      
-    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">                  
-    <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">     
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">                                                                                       
+    <img 
+      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+    />      
+    <img 
+      src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
+    />                  
+    <img 
+      src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"
+    />     
+    <img 
+      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+    />                                                                                       
   </div> 
 
 **BE**
@@ -60,8 +71,8 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   <img
     src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
   />
-  <img
-    src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
+  <img 
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
   />
 </div>
 
@@ -89,9 +100,6 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
     src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"
   />
   <img
-    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-  />
-  <img
     src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
   />
 </div>
@@ -103,7 +111,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
   />
 </div>
 
-**AI Tooling**
+**AI Tools**
 <div align="left">
   <img
     src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
