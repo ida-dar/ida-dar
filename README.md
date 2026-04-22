@@ -6,11 +6,6 @@
 
 I’m a JavaScript developer building high-traffic platforms in React and React Native. I care about clean code and automated pipelines. Recently, AI tools help me whip up boilerplate and catching edge cases early. I am energetic, collaborative and solution-oriented.
 
-## :zap: Top languages
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ida-dar&layout=compact&langs_count=6&hide=css,html">
-</p>
-
 ## :globe_with_meridians: Tech stack
 
 <div align='center'>
