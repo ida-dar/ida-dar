@@ -4,7 +4,8 @@
 
 ## <img src="flower.svg" /> Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/> I'm Ida
 
-I’m a JavaScript developer building high-traffic platforms in React and React Native. I care about clean code and automated pipelines. Recently, AI tools help me whip up boilerplate and catching edge cases early. I am energetic, collaborative and solution-oriented.
+JavaScript/TypeScript developer, React + React Native / Expo on FE and Node + NestJS on BE.
+Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI tooling: Claude Code (skills, hooks, MCPs), Cursor.
 
 ## :globe_with_meridians: Tech stack
 
