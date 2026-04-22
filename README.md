@@ -42,7 +42,7 @@ Building for high-traffic platforms. CI/CD pipelines, clean architecture, AI too
 </div>
 
 **UI Libraries**                                                                                                      
-  <div align='center'>                                                                                                
+  <div align='left'>                                                                                                
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">      
     <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">                  
     <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white">     
